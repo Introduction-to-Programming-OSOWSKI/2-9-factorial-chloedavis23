@@ -5,4 +5,4 @@ def factorial(x):
 
     for i in range(0, len(x)): 
         return x * y
-        y = y + 1
+        
