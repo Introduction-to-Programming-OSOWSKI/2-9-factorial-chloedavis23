@@ -3,5 +3,6 @@ def factorial(x):
     total = 1
 
     for i in range(1, x+1): 
-        return x * y
+        total = total * i  
+    return total 
         
