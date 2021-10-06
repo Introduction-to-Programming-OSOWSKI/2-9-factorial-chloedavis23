@@ -1,8 +1,7 @@
 #WRITE YOUR CODE IN THIS FILE
 def factorial(x): 
+    total = 1
 
-    y = 1
-
-    for y in range(0, len(x)): 
+    for i in range(1, x+1): 
         return x * y
         
